@@ -5,6 +5,11 @@ body{
     line-height: 1.2;
     text-align: center;
 }
+
+ul{
+    list-style:none;
+}
+
 .main-title{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: #de5099;
